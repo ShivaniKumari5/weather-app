@@ -6,7 +6,7 @@ A clean, responsive weather application built with **vanilla JavaScript** that f
 
 ## 🚀 Live Demo
 
-👉 [View Live](https://yourusername.github.io/weather-app/)
+👉 👉 [View Live](https://shivanikumari5.github.io/weather-app/)
 
 ## ✨ Features
 
@@ -50,7 +50,7 @@ weather-app/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/ShivaniKumari5/weather-app.git
    cd weather-app
    ```
 

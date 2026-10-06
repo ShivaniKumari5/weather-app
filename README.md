@@ -79,7 +79,7 @@ This project uses the OpenWeatherMap API key on the client side. Since this is a
 
 | Your Weather | Search Weather |
 |--------------|----------------|
-| ![screenshot 1](./assets/preview.png) | ![screenshot 2](./assets/preview.png) |
+| ![screenshot 1](./assets/preview.png) | ![screenshot 2](./assets/search-preview.png) |
 
 ## 🧠 What I Learned
 
